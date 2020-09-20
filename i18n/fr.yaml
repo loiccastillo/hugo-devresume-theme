@@ -1,0 +1,16 @@
+- id: awards
+  translation: Récompenses
+- id: education
+  translation: Scolarité
+- id: experiences
+  translation: Expériences
+- id: information
+  translation: Informations
+- id: interests
+  translation: Intérêts
+- id: languages
+  translation: Langues
+- id: projects
+  translation: Projets
+- id: skills
+  translation: Compétences
