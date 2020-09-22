@@ -2,6 +2,8 @@
   translation: Récompenses
 - id: education
   translation: Scolarité
+- id: mention
+  translation: Mention
 - id: experiences
   translation: Expériences
 - id: information

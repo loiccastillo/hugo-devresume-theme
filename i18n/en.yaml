@@ -2,6 +2,8 @@
   translation: Awards
 - id: education
   translation: Education
+- id: mention
+  translation: Honors
 - id: experiences
   translation: Work Experience
 - id: information
